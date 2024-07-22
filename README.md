@@ -21,9 +21,7 @@ My research interests are in:
 - Simulation-Based Optimization
 
 ## Current Work
-I am currently developing an open-source library for modeling and simulation of supply chains. This library will help researchers quickly build supply chain networks using components such as: Retailer, Manufacturer, Supplier, Demand, Inventory.
-
-These components can be easily linked together to form a complete supply chain network.
+I am currently developing an open-source library for modeling and simulation of supply chains. This library will help researchers quickly build supply chain networks using components such as Retailer, Manufacturer, Supplier, Demand, and Inventory. These components can be easily linked together to form a complete supply chain network. And then can be simulated for further analysis or optimization tasks.
 
 ## Get in Touch
 - Email: [tushar20231102@iitgoa.ac.in](mailto:tushar20231102@iitgoa.ac.in)
